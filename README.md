@@ -21,3 +21,7 @@ It takes the list as input and normalizes the weights. Then it calculates the si
 Once all the positions are calculated, the photo is written to a file.
 
 You can confiure the font, color schemes and font size.
+
+Sample
+======
+![](https://raw.githubusercontent.com/roshansingh/python-tagcloud/master/sample/a73c8493-a270-4ab9-a3a4-647803dc968c.jpg)
